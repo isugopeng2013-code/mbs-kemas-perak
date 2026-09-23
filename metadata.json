@@ -1,0 +1,8 @@
+{
+  "name": "Laporan Maklum Balas Semasa (MBS)",
+  "description": "Borang pendaftaran dan sistem pengurusan Laporan Maklum Balas Semasa (MBS) yang mesra peranti mudah alih, selamat, dan interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
